@@ -242,6 +242,6 @@ This project demonstrates how geospatial analytics and network optimization can 
 
 ## Author
 
-**D. Vasudevan**
+Sanjesh
 
 Data Analytics | Business Analytics | Geospatial Analytics | Consulting Projects
