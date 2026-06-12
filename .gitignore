@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Power BI
+*.pbix
+
+# Presentations
+*.pptx
+
+# Generated Data
+data/raw/*.csv
+data/processed/*.csv
+
+# Reports
+reports/*.csv
+
+# Generated Maps
+maps/*.html
+
+# Logs
+*.log
+
+# Environment Variables
+.env
+
+# Python Packaging
+build/
+dist/
+*.egg-info/
+
+# Keep Folder Structure
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!reports/.gitkeep
+!maps/.gitkeep

@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+geopy
+folium
+geopandas
+matplotlib
+seaborn
+plotly
